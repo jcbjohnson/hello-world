@@ -13,7 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ![A crayon ponyfish from Life Aquatic.](Zissou_seahorse.gif)
 
+Kate's .gif
 
-```{r cars}
+![Caption here.] (FILE NAME HERE)
 
-```
+
+Jon's .gif
+
+![Caption here.] (FILE NAME HERE)
