@@ -18,6 +18,11 @@ Jon:
 
 
 Kirsten:
+1. I was burned in a terrible pickle accident.
+3. My Uncle used to give me liver paté for Christmas.
+
+
+Candice:
 1. Your response here.
 2. And here...
 3. Also here!
