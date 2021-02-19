@@ -27,6 +27,5 @@ Candice:
 
 
 Candice:
-1. Your response here.
-2. And here...
-3. Also here!
+1. I love Animals!
+2. I enjoy talking to new people!
