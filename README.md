@@ -1,12 +1,12 @@
 # hello-world
-Learning how to git
+Learning how to git and about each other!
 
-Made a new Kirsten branch for the lab tutorial:
+Enter your name here:
 
-Two Truths and a Lie:
+Write down two truths and one lie below.
 
-1. I was burned in a pickle accident.
-2. I can do a no-legs plank.
-3. I was once hit by a taco truck and given 8 free tacos.
+Once you're done, submit a pull request! We'll try to guess the lie before we merge your branch with the main branch.
 
-Added an edit from my alt account.
+1. Your response here
+2. And here...
+3. And here too...
