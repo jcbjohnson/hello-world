@@ -18,6 +18,6 @@ Jon:
 
 
 Kirsten:
-1. Your response here.
-2. And here...
-3. Also here!
+1. I was burned in a terrible pickle accident.
+2. I was hit by a taco truck and given 8 tacos as compensation.
+3. My Uncle used to give me liver paté for Christmas.
