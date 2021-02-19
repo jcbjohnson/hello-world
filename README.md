@@ -8,13 +8,13 @@ Once you're done, submit a pull request! We'll try to guess the lie before we me
 Kate:
 1. Your response here...
 2. And here...
-3. Also here.
+3. Also here!
 
 
 Jon:
 1. Your response here...
 2. And here...
-3. Also here.
+3. Also here!
 
 
 Kirsten:
