@@ -25,5 +25,4 @@ Kirsten:
 
 Candice:
 1. I love Animals!
-2. I want make a lot of money!
-3. I enjoy talking to new people!
+2. I enjoy talking to new people!
