@@ -1,5 +1,5 @@
 # hello-world
-Learning how to git and about each other!
+Learning how to git (and about each other)!
 
 Enter your name here:
 
