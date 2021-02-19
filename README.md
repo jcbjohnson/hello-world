@@ -6,13 +6,13 @@ Write down two truths and one lie below.
 Once you're done, submit a pull request! We'll try to guess the lie before we merge your branch with the main branch.
 
 Kate:
-1. Your response here...
+1. Your response here.
 2. And here...
 3. Also here.
 
 
 Jon:
-1. Your response here...
+1. Your response here.
 2. And here...
 3. Also here.
 
