@@ -1,4 +1,10 @@
 # hello-world
 Learning how to git
 
-This is my first attempt at making a branch, editing, and commiting in my very own github repository.
+Made a new Kirsten branch for the lab tutorial:
+
+Two Truths and a Lie:
+
+1. I was burned in a pickle accident.
+2. I can do a no-legs plank.
+3. I was once hit by a taco truck and given 8 free tacos.
