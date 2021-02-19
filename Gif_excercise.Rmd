@@ -12,6 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Find a fish .gif and add it below!
 
 ![A crayon ponyfish from Life Aquatic.](Zissou_seahorse.gif)
+Candice's .gif
+![Feisty!](Betta_fight.gif)
 
 Kate's .gif
 
