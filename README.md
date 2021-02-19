@@ -24,6 +24,6 @@ Kirsten:
 
 
 Candice:
-1. Your response here.
-2. And here...
-3. Also here!
+1. I love Animals!
+2. I want make a lot of money!
+3. I enjoy talking to new people!
