@@ -12,9 +12,8 @@ Kate:
 
 
 Jon:
-1. Your response here.
-2. And here...
-3. Also here!
+1. I in-line skate.
+2. I accidentally put in a cup of noodles in the microwave with no water...
 
 
 Kirsten:
