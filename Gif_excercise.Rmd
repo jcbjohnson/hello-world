@@ -18,6 +18,5 @@ Kate's .gif
 ![Caption here.] (FILE NAME HERE)
 
 
-Jon's .gif
 
-![Caption here.] (FILE NAME HERE)
+![Meeting friends along the way.](Aguinaga_Gif.gif)
