@@ -21,3 +21,9 @@ Kirsten:
 1. Your response here.
 2. And here...
 3. Also here!
+
+
+Candice:
+1. Your response here.
+2. And here...
+3. Also here!
