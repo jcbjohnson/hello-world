@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Kate's .gif
 
-![Caption here.] (FILE NAME HERE)
+![trying to hold onto my sanity like](kate_fish.gif)
 
 
 Jon's .gif
