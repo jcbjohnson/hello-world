@@ -6,9 +6,8 @@ Write down two truths and one lie below.
 Once you're done, submit a pull request! We'll try to guess the lie before we merge your branch with the main branch.
 
 Kate:
-1. Your response here.
-2. And here...
-3. Also here!
+1. I met my high school crush's mom for the first time when I was getting a colonoscopy
+2. I once made an entire sailboat have to turn around because I dropped something overboard
 
 
 Jon:
