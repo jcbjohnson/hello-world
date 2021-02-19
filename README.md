@@ -12,9 +12,8 @@ Kate:
 
 
 Jon:
-1. I am allergic to melon.
-2. I in-line skate.
-3. I accidentally put in a cup of noodles in the microwave with no water...
+1. I in-line skate.
+2. I accidentally put in a cup of noodles in the microwave with no water...
 
 
 Kirsten:
