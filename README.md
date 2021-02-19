@@ -18,6 +18,6 @@ Jon:
 
 
 Kirsten:
-1. I was burned in a pickle accident.
-2. I was hit by a taco truck and given 8 tacos as compensation.
-3. I think raisins are gross (but they're ok in cookies).
+1. Your response here.
+2. And here...
+3. Also here!
