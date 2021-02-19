@@ -1,5 +1,5 @@
 ---
-title: "AmazonWarriors_gitgifs"
+title: "Amazon Warriors Git Gif-fy With It"
 author: "Kirsten Sheehy"
 date: "2/18/2021"
 output: html_document
@@ -9,11 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Let's get gif-fy with it!
+## Find a fish .gif and add it below!
 
-Find a fish .gif and add it below!
-
-![](Zissou_seahorse.gif)
+![A crayon ponyfish from Life Aquatic.](Zissou_seahorse.gif)
 
 
 ```{r cars}
