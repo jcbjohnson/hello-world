@@ -21,11 +21,10 @@ Kirsten:
 
 
 Candice:
-1. Your response here.
-2. And here...
-3. Also here!
-
-
-Candice:
 1. I love Animals!
 2. I enjoy talking to new people!
+
+YOUR NAME HERE:
+1. A truth (or a lie)
+2. A lie (or a truth)
+3. Another truth (or your lie)
