@@ -1,0 +1,18 @@
+---
+title: "ABGG Gits Gif-fy With It"
+author: "Kirsten Sheehy"
+date: "11/16/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Find your favorite animal .gif and add it below!
+
+![When Canvas doesn't save all the grading you just did.](raccoon_cottoncandy_gif.jpeg)
+
+YOUR GIF HERE!
+
+![A CAPTION](file_name.gif)
